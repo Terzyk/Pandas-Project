@@ -7,7 +7,7 @@ Pierwsza częśc projektu polegała na wykonaniu zadań opierających się danyc
   
 ## **SQLite**  
   
-Następnie korzystając z poprzednich rozwiązań oraz [bazy danych](http://jug.put.poznan.pl/lab-ead/_resources/lab_04/USA_ltper_1x1.sqlite) należało wykonać kilka zadań badających wiedze z Pandas'a, Python'a oraz SQLite'a.  
+Następnie korzystając z poprzednich rozwiązań oraz [bazy danych](http://jug.put.poznan.pl/lab-ead/_resources/lab_04/USA_ltper_1x1.sqlite) należało wykonać kilka zadań badających wiedze z Pandas'a, Python'a oraz SQLite'a. Dodatkowe informacje o tej bazie danych znajdują się [tutaj](https://www.mortality.org/Public/ExplanatoryNotes.php).  
   
 ## **Zadania**  
   

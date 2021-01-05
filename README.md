@@ -1,4 +1,6 @@
 # Pandas-Project  
+Plik zawierający rozwiązanie to plik Projekt_v2.py.  
+Dane, które zostały użyte znajdują się w hiperłączach zamieszczonych poniżej w tekście.  
 ## **Pandas** 
   
 Pierwsza częśc projektu polegała na wykonaniu zadań opierających się danych z [bazy danych](https://www.ssa.gov/oact/babynames/names.zip) związanej z imionami nadawanymi dzieciom w USA na przełomie lat 1880 - 2019.
